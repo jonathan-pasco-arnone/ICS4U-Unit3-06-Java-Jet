@@ -13,7 +13,7 @@ public class Airplane {
     /**
     * The speed.
     */
-    private int speed;
+    private final int speed;
 
     /**
     * The constructor for the Airplane class.
